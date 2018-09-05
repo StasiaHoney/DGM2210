@@ -1,6 +1,6 @@
 //Maya ASCII 2018 scene
-//Name: PaperCrane.ma
-//Last modified: Tue, Sep 04, 2018 08:49:50 PM
+//Name: Cabin.ma
+//Last modified: Tue, Sep 04, 2018 08:50:01 PM
 //Codeset: 1252
 requires maya "2018";
 currentUnit -l centimeter -a degree -t film;
@@ -1065,4 +1065,4 @@ connectAttr "pCubeShape1.iog" ":initialShadingGroup.dsm" -na;
 connectAttr "pCubeShape3.iog" ":initialShadingGroup.dsm" -na;
 connectAttr "pCubeShape4.iog" ":initialShadingGroup.dsm" -na;
 connectAttr "pCubeShape5.iog" ":initialShadingGroup.dsm" -na;
-// End of PaperCrane.ma
+// End of Cabin.ma
