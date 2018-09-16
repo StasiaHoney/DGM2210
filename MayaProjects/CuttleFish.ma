@@ -1,6 +1,6 @@
 //Maya ASCII 2018 scene
 //Name: CuttleFish.ma
-//Last modified: Fri, Sep 14, 2018 09:47:19 PM
+//Last modified: Fri, Sep 14, 2018 09:49:10 PM
 //Codeset: 1252
 requires maya "2018";
 currentUnit -l centimeter -a degree -t film;
@@ -13,8 +13,8 @@ fileInfo "license" "student";
 createNode transform -s -n "persp";
 	rename -uid "78573FAC-425C-551E-1EB8-45929CBEBDC5";
 	setAttr ".v" no;
-	setAttr ".t" -type "double3" -0.28677816415296631 -0.015591151839353001 0.93523083287522635 ;
-	setAttr ".r" -type "double3" -1438.7866413509446 708.40002916273761 -2520.1302535113691 ;
+	setAttr ".t" -type "double3" -0.63900827729983212 0.56642196320568394 0.53214069904856243 ;
+	setAttr ".r" -type "double3" -1477.0769599240703 673.20015128872205 -2520.1863902198888 ;
 	setAttr ".rp" -type "double3" 0 8.3266726846886741e-17 0 ;
 	setAttr ".rpt" -type "double3" -7.4090024921617586e-18 1.8098482050283719e-17 6.6165670196439321e-18 ;
 createNode camera -s -n "perspShape" -p "persp";
