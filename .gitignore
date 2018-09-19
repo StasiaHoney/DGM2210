@@ -65,3 +65,645 @@ sysinfo.txt
 *.DS_Store
 
 Substance Files/
+
+ModellingFall2018/Assets/Unity Technologies\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/FCIntegration\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/FCIntegration/BaseFCRecorderSettings\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/FCIntegration/BaseFCRecorderSettings\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/FCIntegration/Editor\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/FCIntegration/Editor/RecorderEditorBase\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/FCIntegration/Editor/RecorderEditorBase\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/FCIntegration/EXR\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/FCIntegration/EXR/Editor\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/FCIntegration/EXR/Editor/EXRRecorderSettingsEditor\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/FCIntegration/EXR/Editor/EXRRecorderSettingsEditor\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/FCIntegration/EXR/EXRRecorder\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/FCIntegration/EXR/EXRRecorder\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/FCIntegration/EXR/EXRRecorderSettings\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/FCIntegration/EXR/EXRRecorderSettings\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/FCIntegration/GIF\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/FCIntegration/GIF/Editor\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/FCIntegration/GIF/Editor/GIFRecorderSettingsEditor\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/FCIntegration/GIF/Editor/GIFRecorderSettingsEditor\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/FCIntegration/GIF/GIFRecorder\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/FCIntegration/GIF/GIFRecorder\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/FCIntegration/GIF/GIFRecorderSettings\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/FCIntegration/GIF/GIFRecorderSettings\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/FCIntegration/MP4\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/FCIntegration/MP4/Editor\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/FCIntegration/MP4/Editor/Mp4RecorderSettingsEditor\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/FCIntegration/MP4/Editor/Mp4RecorderSettingsEditor\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/FCIntegration/MP4/MP4Recorder\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/FCIntegration/MP4/MP4Recorder\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/FCIntegration/MP4/MP4RecorderSettings\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/FCIntegration/MP4/MP4RecorderSettings\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/FCIntegration/PNG\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/FCIntegration/PNG/Editor\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/FCIntegration/PNG/Editor/PngRecorderSettingsEditor\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/FCIntegration/PNG/Editor/PngRecorderSettingsEditor\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/FCIntegration/PNG/PNGRecorder\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/FCIntegration/PNG/PNGRecorder\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/FCIntegration/PNG/PNGRecorderSettings\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/FCIntegration/PNG/PNGRecorderSettings\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/FCIntegration/WEBM\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/FCIntegration/WEBM/Editor\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/FCIntegration/WEBM/Editor/WEBMRecorderSettingsEditor\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/FCIntegration/WEBM/Editor/WEBMRecorderSettingsEditor\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/FCIntegration/WEBM/WEBMRecorder\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/FCIntegration/WEBM/WEBMRecorder\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/FCIntegration/WEBM/WEBMRecorderSettings\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/FCIntegration/WEBM/WEBMRecorderSettings\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/MovieRecorder\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/MovieRecorder/Audio\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/MovieRecorder/Audio/Editor\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/MovieRecorder/Audio/Editor/AudioInput\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/MovieRecorder/Audio/Editor/AudioInput\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/MovieRecorder/Audio/Editor/AudioInputSettings\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/MovieRecorder/Audio/Editor/AudioInputSettings\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/MovieRecorder/Audio/Editor/AudioInputSettingsEditor\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/MovieRecorder/Audio/Editor/AudioInputSettingsEditor\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/MovieRecorder/Recorder\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/MovieRecorder/Recorder/Editor\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/MovieRecorder/Recorder/Editor/MediaRecorder\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/MovieRecorder/Recorder/Editor/MediaRecorder\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/MovieRecorder/Recorder/Editor/MediaRecorderEditor\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/MovieRecorder/Recorder/Editor/MediaRecorderEditor\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/MovieRecorder/Recorder/Editor/MediaRecorderSettings\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/MovieRecorder/Recorder/Editor/MediaRecorderSettings\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/UTJ\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Editor\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Editor/AudioEncoderConfigDrawer\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Editor/AudioEncoderConfigDrawer\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Editor/AudioRecorderEditor\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Editor/AudioRecorderEditor\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Editor/GBufferRecorderEditor\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Editor/GBufferRecorderEditor\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Editor/Misc\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Editor/Misc/BoolDrawer\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Editor/Misc/BoolDrawer\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Editor/Misc/DataPathDrawer\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Editor/Misc/DataPathDrawer\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Editor/MovieEncoderConfigDrawer\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Editor/MovieEncoderConfigDrawer\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Editor/MovieRecorderEditor\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Editor/MovieRecorderEditor\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Editor/RecorderBaseEditor\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Editor/RecorderBaseEditor\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Plugins\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Plugins/x86_64\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Plugins/x86_64/fccore\.bundle\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Plugins/x86_64/fccore\.bundle/Contents\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Plugins/x86_64/fccore\.bundle/Contents/Info\.plist
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Plugins/x86_64/fccore\.bundle/Contents/Info\.plist\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Plugins/x86_64/fccore\.bundle/Contents/MacOS\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Plugins/x86_64/fccore\.bundle/Contents/MacOS/fccore
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Plugins/x86_64/fccore\.bundle/Contents/MacOS/fccore\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Plugins/x86_64/fccore\.dll\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Plugins/x86\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Plugins/x86/fccore\.dll\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Scripts\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Scripts/AudioRecorder\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Scripts/AudioRecorder\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Scripts/Encoder\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Scripts/Encoder/AudioEncoder\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Scripts/Encoder/AudioEncoder\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Scripts/Encoder/EncoderBase\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Scripts/Encoder/EncoderBase\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Scripts/Encoder/ExrEncoder\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Scripts/Encoder/ExrEncoder\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Scripts/Encoder/fcAPI\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Scripts/Encoder/fcAPI\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Scripts/Encoder/FlacEncoder\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Scripts/Encoder/FlacEncoder\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Scripts/Encoder/GifEncoder\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Scripts/Encoder/GifEncoder\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Scripts/Encoder/MovieEncoder\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Scripts/Encoder/MovieEncoder\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Scripts/Encoder/MP4Encoder\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Scripts/Encoder/MP4Encoder\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Scripts/Encoder/OggEncoder\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Scripts/Encoder/OggEncoder\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Scripts/Encoder/PngEncoder\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Scripts/Encoder/PngEncoder\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Scripts/Encoder/WaveEncoder\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Scripts/Encoder/WaveEncoder\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Scripts/Encoder/WebMEncoder\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Scripts/Encoder/WebMEncoder\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Scripts/GBufferRecorder\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Scripts/GBufferRecorder\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Scripts/Misc\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Scripts/Misc/Bool\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Scripts/Misc/Bool\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Scripts/Misc/DataPath\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Scripts/Misc/DataPath\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Scripts/MovieRecorder\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Scripts/MovieRecorder\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Scripts/RecorderBase\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/UTJ/FrameCapturer/Scripts/RecorderBase\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/UTJ/Information\.txt
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Extensions/UTJ/Information\.txt\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Core\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Core/Editor\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Core/Editor/AboutBox\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Core/Editor/AboutBox\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Core/Editor/EnumHelper\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Core/Editor/EnumHelper\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Core/Editor/FileNameDrawer\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Core/Editor/FileNameDrawer\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Core/Editor/InputEditor\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Core/Editor/InputEditor\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Core/Editor/OutputPathDrawer\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Core/Editor/OutputPathDrawer\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Core/Editor/RecorderEditor\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Core/Editor/RecorderEditor\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Core/Editor/RecorderSelector\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Core/Editor/RecorderSelector\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Core/Editor/RecorderWindow\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Core/Editor/RecorderWindow\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Core/Editor/RecorderWindowSettings\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Core/Editor/RecorderWindowSettings\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Core/Editor/ResolutionSelector\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Core/Editor/ResolutionSelector\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Core/Editor/RTInputSelector\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Core/Editor/RTInputSelector\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Core/Editor/SerializableObjHelper\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Core/Editor/SerializableObjHelper\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Core/Editor/Timeline\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Core/Editor/Timeline/RecorderClipEditor\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Core/Editor/Timeline/RecorderClipEditor\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Core/Engine\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Core/Engine/BaseRenderTextureInput\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Core/Engine/BaseRenderTextureInput\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Core/Engine/FileNameGenerator\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Core/Engine/FileNameGenerator\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Core/Engine/FrameRateHelper\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Core/Engine/FrameRateHelper\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Core/Engine/GenericRecorder\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Core/Engine/GenericRecorder\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Core/Engine/ImageInputSettings\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Core/Engine/ImageInputSettings\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Core/Engine/ImageRecorderSettings\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Core/Engine/ImageRecorderSettings\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Core/Engine/InputBinder\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Core/Engine/InputBinder\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Core/Engine/InputSettings\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Core/Engine/InputSettings\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Core/Engine/InputSettingsComponent\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Core/Engine/InputSettingsComponent\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Core/Engine/InputSettingsList\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Core/Engine/InputSettingsList\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Core/Engine/OutputPath\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Core/Engine/OutputPath\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Core/Engine/Recorder\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Core/Engine/Recorder\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Core/Engine/RecorderAttribute\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Core/Engine/RecorderAttribute\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Core/Engine/RecorderComponent\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Core/Engine/RecorderComponent\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Core/Engine/RecorderInput\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Core/Engine/RecorderInput\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Core/Engine/RecorderSettings\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Core/Engine/RecorderSettings\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Core/Engine/RecordersInventory\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Core/Engine/RecordersInventory\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Core/Engine/RecorderVersion\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Core/Engine/RecorderVersion\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Core/Engine/RecordingSession\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Core/Engine/RecordingSession\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Core/Engine/SceneHook\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Core/Engine/SceneHook\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Core/Engine/TextureFlipper\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Core/Engine/TextureFlipper\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Core/Engine/Timeline\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Core/Engine/Timeline/RecorderClip\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Core/Engine/Timeline/RecorderClip\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Core/Engine/Timeline/RecorderPlayableBehaviour\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Core/Engine/Timeline/RecorderPlayableBehaviour\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Core/Engine/Timeline/RecorderTrack\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Core/Engine/Timeline/RecorderTrack\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Core/Engine/Timeline/WaitForEndOfFrameComponent\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Core/Engine/Timeline/WaitForEndOfFrameComponent\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Core/Engine/UnityHelpers\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Core/Engine/UnityHelpers\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Core/Engine/Verbose\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Core/Engine/Verbose\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Core/Shaders\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Core/Shaders/VerticalFlipper\.shader
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Core/Shaders/VerticalFlipper\.shader\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Inputs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Inputs/Animation\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Inputs/Animation/Editor\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Inputs/Animation/Editor/AnimationInput\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Inputs/Animation/Editor/AnimationInput\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Inputs/Animation/Editor/AnimationInputSettings\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Inputs/Animation/Editor/AnimationInputSettings\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Inputs/Animation/Editor/AnimationInputSettingsEditor\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Inputs/Animation/Editor/AnimationInputSettingsEditor\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Inputs/Camera360\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Inputs/Camera360/Editor\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Inputs/Camera360/Editor/Camera360InputEditor\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Inputs/Camera360/Editor/Camera360InputEditor\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Inputs/Camera360/Engine\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Inputs/Camera360/Engine/Camera360Input\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Inputs/Camera360/Engine/Camera360Input\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Inputs/Camera360/Engine/Camera360InputSettings\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Inputs/Camera360/Engine/Camera360InputSettings\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Inputs/CBRenderTexture\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Inputs/CBRenderTexture/Editor\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Inputs/CBRenderTexture/Editor/CBRenderTextureInputSettingsEditor\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Inputs/CBRenderTexture/Editor/CBRenderTextureInputSettingsEditor\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Inputs/CBRenderTexture/Engine\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Inputs/CBRenderTexture/Engine/CBRenderTextureInput\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Inputs/CBRenderTexture/Engine/CBRenderTextureInput\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Inputs/CBRenderTexture/Engine/CBRenderTextureInputSettings\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Inputs/CBRenderTexture/Engine/CBRenderTextureInputSettings\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Inputs/CBRenderTexture/Engine/GameViewSize\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Inputs/CBRenderTexture/Engine/GameViewSize\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Inputs/CBRenderTexture/Shaders\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Inputs/CBRenderTexture/Shaders/CopyFB\.shader
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Inputs/CBRenderTexture/Shaders/CopyFB\.shader\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Inputs/RenderTexture\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Inputs/RenderTexture/Editor\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Inputs/RenderTexture/Editor/RenderTextureInputSettingsEditor\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Inputs/RenderTexture/Editor/RenderTextureInputSettingsEditor\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Inputs/RenderTexture/Engine\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Inputs/RenderTexture/Engine/RenderTextureInput\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Inputs/RenderTexture/Engine/RenderTextureInput\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Inputs/RenderTexture/Engine/RenderTextureInputSettings\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Inputs/RenderTexture/Engine/RenderTextureInputSettings\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Inputs/RenderTextureSampler\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Inputs/RenderTextureSampler/Editor\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Inputs/RenderTextureSampler/Editor/RenderTextureSamplerEditor\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Inputs/RenderTextureSampler/Editor/RenderTextureSamplerEditor\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Inputs/RenderTextureSampler/Engine\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Inputs/RenderTextureSampler/Engine/RenderTextureSampler\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Inputs/RenderTextureSampler/Engine/RenderTextureSampler\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Inputs/RenderTextureSampler/Engine/RenderTextureSamplerSettings\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Inputs/RenderTextureSampler/Engine/RenderTextureSamplerSettings\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Inputs/RenderTextureSampler/Shaders\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Inputs/RenderTextureSampler/Shaders/BS4Accumulate\.shader
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Inputs/RenderTextureSampler/Shaders/BS4Accumulate\.shader\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Inputs/RenderTextureSampler/Shaders/BS4Normalize\.shader
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Inputs/RenderTextureSampler/Shaders/BS4Normalize\.shader\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Inputs/RenderTextureSampler/Shaders/BS4SuperShader\.shader
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Inputs/RenderTextureSampler/Shaders/BS4SuperShader\.shader\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Inputs/ScreenCapture\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Inputs/ScreenCapture/Editor\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Inputs/ScreenCapture/Editor/ScreenCaptureInputEditor\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Inputs/ScreenCapture/Editor/ScreenCaptureInputEditor\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Inputs/ScreenCapture/Engine\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Inputs/ScreenCapture/Engine/ScreenCaptureInput\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Inputs/ScreenCapture/Engine/ScreenCaptureInput\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Inputs/ScreenCapture/Engine/ScreenCaptureInputSettings\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Inputs/ScreenCapture/Engine/ScreenCaptureInputSettings\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Packager\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Packager/Editor\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Packager/Editor/FRPackagerPaths\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Packager/Editor/FRPackagerPaths\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Recorders\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Recorders/AnimationRecorder\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Recorders/AnimationRecorder/Editor\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Recorders/AnimationRecorder/Editor/AnimationRecorder\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Recorders/AnimationRecorder/Editor/AnimationRecorder\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Recorders/AnimationRecorder/Editor/AnimationRecorderSettings\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Recorders/AnimationRecorder/Editor/AnimationRecorderSettings\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Recorders/AnimationRecorder/Editor/AnimationRecorderSettingsEditor\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Recorders/AnimationRecorder/Editor/AnimationRecorderSettingsEditor\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Recorders/ImageRecorder\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Recorders/ImageRecorder/Editor\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Recorders/ImageRecorder/Editor/ImageRecorderEditor\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Recorders/ImageRecorder/Editor/ImageRecorderEditor\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Recorders/ImageRecorder/Engine\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Recorders/ImageRecorder/Engine/ImageRecorder\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Recorders/ImageRecorder/Engine/ImageRecorder\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Recorders/ImageRecorder/Engine/ImageRecorderSettings\.cs
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Framework/Recorders/ImageRecorder/Engine/ImageRecorderSettings\.cs\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Recorder_install\.pdf
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/Recorder_install\.pdf\.meta
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/RecorderWindowSettings\.asset
+
+ModellingFall2018/Assets/Unity Technologies/Recorder/RecorderWindowSettings\.asset\.meta
+
+ModellingFall2018/ProjectSettings/TagManager\.asset
