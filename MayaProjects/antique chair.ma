@@ -1,6 +1,6 @@
 //Maya ASCII 2018 scene
 //Name: antique chair.ma
-//Last modified: Wed, Oct 24, 2018 02:12:04 PM
+//Last modified: Wed, Oct 24, 2018 02:20:22 PM
 //Codeset: 1252
 requires maya "2018";
 requires -nodeType "MASH_Waiter" -nodeType "MASH_Distribute" -nodeType "MASH_Curve"
@@ -15,13 +15,13 @@ fileInfo "license" "education";
 createNode transform -s -n "persp";
 	rename -uid "CD322822-4E0A-24FE-27F7-0B99EF8C7B97";
 	setAttr ".v" no;
-	setAttr ".t" -type "double3" 0.51742661596443074 4.9403471028986914 7.5558850814943819 ;
+	setAttr ".t" -type "double3" 0.86364159721930722 7.0934268855064584 11.218457014139339 ;
 	setAttr ".r" -type "double3" 689.6616473057785 3965.3999999988191 -5.9901244119044702e-16 ;
 createNode camera -s -n "perspShape" -p "persp";
 	rename -uid "D2CEA9BC-4F76-BD49-6009-3BB585454FAD";
 	setAttr -k off ".v" no;
 	setAttr ".fl" 34.999999999999993;
-	setAttr ".coi" 9.2710897644100445;
+	setAttr ".coi" 13.53372398814051;
 	setAttr ".imn" -type "string" "persp";
 	setAttr ".den" -type "string" "persp_depth";
 	setAttr ".man" -type "string" "persp_mask";
