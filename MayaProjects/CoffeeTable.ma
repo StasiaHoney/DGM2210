@@ -1,6 +1,6 @@
 //Maya ASCII 2018 scene
 //Name: CoffeeTable.ma
-//Last modified: Wed, Oct 24, 2018 02:33:31 PM
+//Last modified: Wed, Oct 24, 2018 02:34:45 PM
 //Codeset: 1252
 requires maya "2018";
 currentUnit -l centimeter -a degree -t film;
@@ -84,7 +84,7 @@ createNode mesh -n "CoffeeTableShape" -p "CoffeeTable";
 	setAttr -k off ".v";
 	setAttr ".vir" yes;
 	setAttr ".vif" yes;
-	setAttr ".pv" -type "double2" 0.23918670415878293 0.5 ;
+	setAttr ".pv" -type "double2" 0.21568635106086731 0.14600925147533417 ;
 	setAttr ".uvst[0].uvsn" -type "string" "map1";
 	setAttr ".cuvs" -type "string" "map1";
 	setAttr ".dcc" -type "string" "Ambient+Diffuse";
@@ -253,8 +253,8 @@ createNode mesh -n "CoffeeTableShape" -p "CoffeeTable";
 	setAttr ".ai_translator" -type "string" "polymesh";
 createNode lightLinker -s -n "lightLinker1";
 	rename -uid "1D4B58B7-4834-949C-6E82-DBAC32BA7A62";
-	setAttr -s 2 ".lnk";
-	setAttr -s 2 ".slnk";
+	setAttr -s 3 ".lnk";
+	setAttr -s 3 ".slnk";
 createNode shapeEditorManager -n "shapeEditorManager";
 	rename -uid "3C8B88F9-4900-5D6A-2111-E3BB6A7839A0";
 createNode poseInterpolatorManager -n "poseInterpolatorManager";
@@ -3465,6 +3465,26 @@ createNode polyTweakUV -n "polyTweakUV10";
 		 0.19718876 -0.41121498 0.31409463 -0.52083367 0.40633374 -0.40476617 0.30866826 -0.51724529
 		 0.41714251 0.23577076 0.0308112 -0.43043226 0.52031219 -0.43365586 0.5230248 -0.30791748
 		 0.41722152 -0.39473021 0.31405151 0.26168841 -0.26074082 -0.3915064 0.31133902;
+createNode lambert -n "CoffeeTable1";
+	rename -uid "52D08E0F-4E56-7468-50D8-C98F414950DB";
+createNode shadingEngine -n "lambert2SG";
+	rename -uid "2E91B6E1-430D-2F0B-1569-56B30F823ED5";
+	setAttr ".ihi" 0;
+	setAttr ".ro" yes;
+createNode materialInfo -n "materialInfo1";
+	rename -uid "F23CABA5-4BF3-10F8-ECEC-C3ADBFAA2A99";
+createNode nodeGraphEditorInfo -n "hyperShadePrimaryNodeEditorSavedTabsInfo";
+	rename -uid "7ACA2FED-4A28-5ACE-0627-98871CA138B3";
+	setAttr ".tgi[0].tn" -type "string" "Untitled_1";
+	setAttr ".tgi[0].vl" -type "double2" -464.28569583665836 -323.80951094248991 ;
+	setAttr ".tgi[0].vh" -type "double2" 446.42855368909466 338.09522466054096 ;
+	setAttr -s 2 ".tgi[0].ni";
+	setAttr ".tgi[0].ni[0].x" -255.71427917480469;
+	setAttr ".tgi[0].ni[0].y" 145.71427917480469;
+	setAttr ".tgi[0].ni[0].nvs" 1923;
+	setAttr ".tgi[0].ni[1].x" 51.428569793701172;
+	setAttr ".tgi[0].ni[1].y" 145.71427917480469;
+	setAttr ".tgi[0].ni[1].nvs" 1923;
 select -ne :time1;
 	setAttr ".o" 1;
 	setAttr ".unw" 1;
@@ -3475,10 +3495,10 @@ select -ne :hardwareRenderingGlobals;
 		 0 0 0 0 ;
 	setAttr ".fprt" yes;
 select -ne :renderPartition;
-	setAttr -s 2 ".st";
+	setAttr -s 3 ".st";
 select -ne :renderGlobalsList1;
 select -ne :defaultShaderList1;
-	setAttr -s 4 ".s";
+	setAttr -s 5 ".s";
 select -ne :postProcessList1;
 	setAttr -s 2 ".p";
 select -ne :defaultRenderingList1;
@@ -3497,8 +3517,10 @@ connectAttr "polyTweakUV10.out" "CoffeeTableShape.i";
 connectAttr "polyTweakUV10.uvtk[0]" "CoffeeTableShape.uvst[0].uvtw";
 relationship "link" ":lightLinker1" ":initialShadingGroup.message" ":defaultLightSet.message";
 relationship "link" ":lightLinker1" ":initialParticleSE.message" ":defaultLightSet.message";
+relationship "link" ":lightLinker1" "lambert2SG.message" ":defaultLightSet.message";
 relationship "shadowLink" ":lightLinker1" ":initialShadingGroup.message" ":defaultLightSet.message";
 relationship "shadowLink" ":lightLinker1" ":initialParticleSE.message" ":defaultLightSet.message";
+relationship "shadowLink" ":lightLinker1" "lambert2SG.message" ":defaultLightSet.message";
 connectAttr "layerManager.dli[0]" "defaultLayer.id";
 connectAttr "renderLayerManager.rlmi[0]" "defaultRenderLayer.rlid";
 connectAttr "polyCube1.out" "polyBevel1.ip";
@@ -3560,6 +3582,15 @@ connectAttr "polyTweakUV8.out" "polyLayoutUV1.ip";
 connectAttr "polyLayoutUV1.out" "polyTweakUV9.ip";
 connectAttr "polyTweakUV9.out" "polyLayoutUV2.ip";
 connectAttr "polyLayoutUV2.out" "polyTweakUV10.ip";
+connectAttr "CoffeeTable1.oc" "lambert2SG.ss";
+connectAttr "CoffeeTableShape.iog" "lambert2SG.dsm" -na;
+connectAttr "lambert2SG.msg" "materialInfo1.sg";
+connectAttr "CoffeeTable1.msg" "materialInfo1.m";
+connectAttr "CoffeeTable1.msg" "hyperShadePrimaryNodeEditorSavedTabsInfo.tgi[0].ni[0].dn"
+		;
+connectAttr "lambert2SG.msg" "hyperShadePrimaryNodeEditorSavedTabsInfo.tgi[0].ni[1].dn"
+		;
+connectAttr "lambert2SG.pa" ":renderPartition.st" -na;
+connectAttr "CoffeeTable1.msg" ":defaultShaderList1.s" -na;
 connectAttr "defaultRenderLayer.msg" ":defaultRenderingList1.r" -na;
-connectAttr "CoffeeTableShape.iog" ":initialShadingGroup.dsm" -na;
 // End of CoffeeTable.ma
